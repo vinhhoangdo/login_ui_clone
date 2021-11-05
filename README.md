@@ -16,7 +16,10 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Layout
-
+<p align="center">
+  <img width="50%" height="50%" src="https://user-images.githubusercontent.com/69976122/140481787-5de0386d-3f66-4f80-8f2d-569b56a9ba5e.jpg">
+</p>
+     
 ![splash-screen](https://user-images.githubusercontent.com/69976122/140481787-5de0386d-3f66-4f80-8f2d-569b56a9ba5e.jpg)
 ![login-screen](https://user-images.githubusercontent.com/69976122/140481774-77db2295-3200-44ba-8fbb-9e375feb01e9.jpg)
 ![register-screen](https://user-images.githubusercontent.com/69976122/140481782-bcadec7b-29bb-449e-9320-0f9963db7d2c.jpg)
